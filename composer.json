@@ -24,7 +24,7 @@
     "composer/semver": "^3.0",
     "zoon/rialto": "^1.5",
     "psr/log": "^3.0",
-    "thecodingmachine/safe": "^2.5"
+    "thecodingmachine/safe": "^3.0"
   },
   "require-dev": {
     "friendsofphp/php-cs-fixer": "^3.2",
